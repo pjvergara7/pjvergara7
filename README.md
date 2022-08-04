@@ -2,7 +2,7 @@
 <h3 align="center">FullStack Java in training - Geoscientist - Researcher</h3>
 
 <p align="center">
-	<a href="https://https://www.instagram.com/itskelseys/"><img src="https://img.icons8.com/dusk/64/000000/instagram-new--v2.png"/ height = 80px></a>
+	<a href="https://www.instagram.com/itskelseys/"><img src="https://img.icons8.com/dusk/64/000000/instagram-new--v2.png"/ height = 80px></a>
 	<a href="https://https://https://www.linkedin.com/in/pvtor//"><img src="https://img.icons8.com/bubbles/100/000000/linkedin.png"/ height = 80px></a>
 	<a href="https://www.researchgate.net/profile/Paulina-Vergara-4"><img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/72/000000/external-researchgate-a-social-networking-site-for-scientists-and-researchers-to-share-papers-logo-green-tal-revivo.png"/ height = 80px></a>
 </p>
