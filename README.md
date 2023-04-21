@@ -1,5 +1,5 @@
 
-<h3 align="center">FullStack Java in training - Geoscientist - Researcher</h3>
+<h3 align="center">FullStack in training - Geoscientist - Researcher</h3>
 
 <p align="center">
 	<a href="https://www.instagram.com/itskelseys/"><img src="https://img.icons8.com/dusk/64/000000/instagram-new--v2.png"/ height = 80px></a>
